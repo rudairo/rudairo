@@ -1,11 +1,6 @@
-### Hi there 👋
+# Hi there 👋
+## Data-driven IT Specialist
 
-<!--
-**rudairo/rudairo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-# Data-driven IT Specialist
-
-[Image of a laptop with the Microsoft Azure logo]
 
 I am a data-driven IT specialist with a passion for transforming complex IT landscapes into agile, cloud-based solutions. My 2+ years of experience in cloud, servers, and networking have enabled me to drive significant improvements in efficiency, productivity, and cost-effectiveness.
 
